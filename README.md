@@ -60,7 +60,7 @@ context in the music.
 
 
 
-Instructions to run 
+Instructions to run (venv environment is not uploaded as tensorflow is too big for github and datasets are also required to download before run)
 
 -----Sentiment Analysis------
 
